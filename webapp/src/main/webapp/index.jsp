@@ -4,3 +4,4 @@
 <h2> Containers are lit! </h2>
 
 <h2> Using Ansible </h2>
+<h2> Using poll SCM to execute whole CI/CD pipeline!</h2>
